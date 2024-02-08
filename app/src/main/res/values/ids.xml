@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="menu_latte" type="id" tools:ignore="DuplicateDefinition" />
+     <item name="menu_mocha" type="id" />
+    <item name="menu_americano" type="id" />
+    <item name="order_text_view" type="id" />
+    <item name="send_order_button" type="id" />
+    <item name="cancel_order_button" type="id" />
+</resources>
